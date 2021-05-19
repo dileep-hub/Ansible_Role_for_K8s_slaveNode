@@ -1,0 +1,1 @@
+# Ansible_Role_for_K8s_slaveNode
